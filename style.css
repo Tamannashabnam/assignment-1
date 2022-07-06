@@ -22,6 +22,9 @@ h1 {
 .button {
   text-decoration: none;
   background-image: linear-gradient(orange, tomato);
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 100px;
   padding: 10px 40px;
   border-radius: 5px;
   font-weight: 700;
@@ -32,14 +35,42 @@ h1 {
 
 }
 
-#my {
-  width: 150px;
-  height: 100px;
-  padding: 20px;
-  border: 1px solid red;
-  color: brown;
+.my {
+
+  width: 180px;
+  height: 130px;
+  margin-left: 5px;
+  margin-right: 5px;
+  text-shadow: 2px goldenrod;
+  border: 5px solid rgb(128, 87, 0);
+  padding: 5px;
+  margin: 2px;
+
+  background-color: rosybrown;
 }
 
-#my name {
-  color: brown;
+#name h1 {
+  color: rgb(255, 123, 0);
+}
+
+.my-name {
+  width: 180px;
+  height: 130px;
+
+  margin-left: 5px;
+  margin-right: 5px;
+  text-shadow: 2px;
+
+  background-color: beige;
+
+
+}
+
+input[type=text] {
+  width: 50%;
+  padding: 1px 1px;
+  margin: 2px 5px;
+  border: none;
+  border-bottom: 2px solid red;
+
 }
