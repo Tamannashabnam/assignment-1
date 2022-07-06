@@ -1,0 +1,28 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  padding: 10px;
+  text-align: center;
+  color: black;
+}
+
+h1 {
+  color: gray;
+  padding: 10px;
+
+  font-size: 50px;
+}
+
+.my-add {
+  background-image: url(images/donation2.jpg);
+  background-size: cover;
+  height: 80vh;
+
+}
+
+.button {
+  text-decoration: none;
+  background-image: linear-gradient(orange, tomato);
+  padding: 10px 40px;
+  border-radius: 5px;
+  font-weight: 700;
+}
