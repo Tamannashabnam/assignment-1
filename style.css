@@ -90,6 +90,26 @@ input[type=text] {
 img {
   margin-right: 100%;
   padding-top: -80%;
+}
 
+.half {
+  margin-top: 10%;
+  margin-left: 2%;
+  padding-left: 2%;
+}
 
+.half img {
+  margin-top: 10%;
+  margin-left: 0%;
+  padding-left: 0%;
+}
+
+input {
+  background-color: blanchedalmond;
+  box-sizing: border-box;
+
+}
+
+#toma {
+  background-color: bisque;
 }
