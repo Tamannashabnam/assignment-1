@@ -110,6 +110,25 @@ input {
 
 }
 
-#toma {
-  background-color: bisque;
+.email {
+  background-color: pink;
+  background-position: 20%;
+  padding: 5%;
+  margin-left: 20%;
+  margin-right: 20%;
+
+
+
+}
+
+button {
+  color: black;
+  background-color: tomato;
+}
+
+footer {
+  background-color: rgb(128, 128, 128);
+  font-family: 'Splash', cursive;
+
+  text-align: center;
 }
